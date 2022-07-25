@@ -1,4 +1,4 @@
-module github.dip-net.co.jp/ku-takeyama/grpc_test_api
+module github.com/bushiyama/simple-api-go
 
 go 1.13
 
